@@ -1,7 +1,8 @@
 import 'package:flutter_modular/flutter_modular.dart';
 
-import 'home/auth_home_page.dart';
+import 'home/home.dart';
 import 'login/login.dart';
+import 'register/register.dart';
 
 class AuthModule extends Module {
   @override
@@ -13,6 +14,7 @@ class AuthModule extends Module {
           Modular.initialRoute,
           child: (context, args) => AuthHomePage(authStore: Modular.get()),
         ),
-        ModuleRoute('/login', module: LoginModule())
+        ModuleRoute('/login', module: LoginModule()),
+        ModuleRoute('/register', module: RegisterModule())
       ];
 }

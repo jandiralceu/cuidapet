@@ -34,7 +34,7 @@ class _LoginRegister extends StatelessWidget {
           textColor: Colors.white,
         ),
         RoundedButton(
-          onTap: () {},
+          onTap: () => Navigator.pushNamed(context, '/auth/register'),
           icon: const Icon(
             Icons.mail,
             color: Colors.white,

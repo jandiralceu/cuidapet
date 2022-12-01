@@ -21,7 +21,7 @@ class _LoginFormState extends State<_LoginForm> {
           ),
           SizedBox(height: 20.height),
           DefaultButton(
-            labelText: 'Entrar',
+            labelText: 'Login',
             onPressed: () {},
           ),
           SizedBox(height: 20.height),
