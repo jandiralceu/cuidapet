@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>668365520067-jteuu9ja8mabr0engqi70ed7si1rkmqg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.668365520067-jteuu9ja8mabr0engqi70ed7si1rkmqg</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAxt_hEHX4o_eGDxQlNJ_-4IgwuLS9tsHY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>668365520067</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>co.jandir.cuidapetApp</string>
+	<key>PROJECT_ID</key>
+	<string>cuidapet-f1e97</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cuidapet-f1e97.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:668365520067:ios:3435aa36c56addde37b676</string>
+</dict>
+</plist>

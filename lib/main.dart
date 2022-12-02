@@ -3,8 +3,11 @@ import 'package:flutter_modular/flutter_modular.dart';
 
 import 'app/app_module.dart';
 import 'app/app_widget.dart';
+import 'app/core/core.dart';
 
-void main() {
+void main() async {
+  await ApplicationConfig().configureApp();
+
   runApp(ModularApp(
     module: AppModule(),
     child: const AppWidget(),

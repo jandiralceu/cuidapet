@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "668365520067",
+    "project_id": "cuidapet-f1e97",
+    "storage_bucket": "cuidapet-f1e97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668365520067:android:551b9058c4dec85a37b676",
+        "android_client_info": {
+          "package_name": "co.jandir.cuidapet_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668365520067-rorfn88ljo1eicg19ps1guv5buupndf5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.jandir.cuidapet_app",
+            "certificate_hash": "642e2193eb4f1767186b03d13d33aacaa6328931"
+          }
+        },
+        {
+          "client_id": "668365520067-iguq5hdpbd1nbrmu30m1cqaeigsp6jl0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAS3DqpoMr3z_6GO4xM4JUZ9nels3BySA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668365520067-iguq5hdpbd1nbrmu30m1cqaeigsp6jl0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "668365520067-jteuu9ja8mabr0engqi70ed7si1rkmqg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "co.jandir.cuidapetApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
