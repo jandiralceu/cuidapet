@@ -1,12 +1,12 @@
 name: cuidapet_app
 description: A new Flutter project.
 
-publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
 
 version: 1.0.0+1
 
 environment:
-  sdk: '>=2.18.4 <3.0.0'
+  sdk: ">=2.18.4 <3.0.0"
 
 dependencies:
   flutter:
@@ -33,7 +33,6 @@ dev_dependencies:
   build_runner: ^2.3.2
 
 flutter:
-
   uses-material-design: true
 
   assets:
@@ -51,9 +50,7 @@ flutter:
   # "family" key with the font family name, and a "fonts" key with a
   # list giving the asset and other descriptors for the font. For
   # example:
-  # fonts:
-  #   - family: Schyler
   fonts:
     - family: CuidapetIcons
       fonts:
-       - asset: assets/fonts/Cuidapet.ttf
+        - asset: assets/fonts/Cuidapet.ttf
